@@ -11,7 +11,7 @@ const (
 
 const big = 9223372036854775807 + 1
 
-func Constant() float64 {
+func Constant() {
 	fmt.Println(Pi, Username, Password)
-	return (big - 1)
+	fmt.Println(big - 1)
 }
