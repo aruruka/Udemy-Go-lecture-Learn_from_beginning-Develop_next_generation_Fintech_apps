@@ -1,4 +1,4 @@
-package three_definition_test
+package three_definition
 
 import (
 	"log"
