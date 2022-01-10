@@ -28,7 +28,7 @@ func convert(price int) float64 {
 	return float64(price)
 }
 
-func TestMain(t *testing.T) {
+func TestFunc(t *testing.T) {
 	// add(10, 20)
 
 	/* r := add(100, 200)
